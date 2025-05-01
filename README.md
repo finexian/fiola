@@ -1,6 +1,5 @@
 # Fiola
 
-## Test Data & Logistic Regression Parameters
 This repository contains supporting material for evaluating logistic regression models trained on the Fiola framework.
 
 It includes:
