@@ -7,6 +7,7 @@ It includes:
 2. The entire Lending Club dataset
 3. The logistic regression parameters used during model training.
 4. The train and test dates for all the epochs
+5. The model to reproduce the results
 
 Repository Contents
 * X_test36_epoch94.csv – Features for 36-month loan test set (epoch 94)
