@@ -4,8 +4,9 @@ This repository contains supporting material for evaluating logistic regression 
 
 It includes:
 1. Two test datasets from the last training epoch.
-2. The logistic regression parameters used during model training.
-3. The train and test dates for all the epochs
+2. The entire Lending Club dataset
+3. The logistic regression parameters used during model training.
+4. The train and test dates for all the epochs
 
 Repository Contents
 * X_test36_epoch94.csv – Features for 36-month loan test set (epoch 94)
