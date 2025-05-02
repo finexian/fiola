@@ -15,6 +15,7 @@ Repository Contents
 * X_test60_epoch52.csv – Features for 60-month loan test set (epoch 52)
 * y_test60_epoch52.csv – Target variable for 60-month test set (epoch 52)
 * logistic_regression_params.json – Best hyperparameters and coefficients used in the trained model.
+* Model.ipynb - The Logistic regression model to replicate the results
 
 Usage
 These files allow users to validate model performance on the final epoch test sets used in the original Fiola experiments.
