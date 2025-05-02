@@ -1,4 +1,4 @@
-# Fiola
+# FIOLA: Optimizing Credit Risk Decisions Through Trade-Off Analysis — Evidence from Lending Club Data
 
 This repository contains supporting material for evaluating logistic regression models trained on the Fiola framework.
 
