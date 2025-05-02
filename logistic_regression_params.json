@@ -1,5 +1,6 @@
 {
-    "C": 0.01,
+    "C_36months": 0.01,
+    "C_60months": 0.1,
     "fit_intercept": true,
     "n_jobs": -1,
     "max_iter": 100000,
