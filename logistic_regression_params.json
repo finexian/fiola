@@ -104,6 +104,6 @@
         "test_eligible_month__-inf, 5.0_": 0.0208255694131545,
         "test_eligible_month__5.0, inf_": 0.0239169033946198
     },
-    "intercept_36": -0.357551,
-    "intercept_60": 0.302155
+    "intercept_36": -0.358144,
+    "intercept_60": 0.290321
 }
