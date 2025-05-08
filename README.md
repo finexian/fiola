@@ -14,6 +14,8 @@ Repository Contents
 * y_test36_epoch94.csv – Target variable for 36-month test set (epoch 94)
 * X_test60_epoch52.csv – Features for 60-month loan test set (epoch 52)
 * y_test60_epoch52.csv – Target variable for 60-month test set (epoch 52)
+* 36mnths_dates.csv - Train test dates for the 36 month dataset
+* 60mnths_dates.csv - Train test dates for the 60 month dataset
 * logistic_regression_params.json – Best hyperparameters and coefficients used in the trained model.
 * Model.ipynb - The Logistic regression model to replicate the results
 
